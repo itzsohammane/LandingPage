@@ -1,4 +1,4 @@
-# This is a Landing Page for any Product or Servive Brand
+# This is a Landing Page for any Product or service Brand
 ## 📌 Responsive Landing Page
 A modern and responsive landing page built using HTML and CSS. This project demonstrates clean layout design, responsive structure, and user-friendly interface suitable for product or service websites.
 <br>
@@ -19,7 +19,7 @@ A modern and responsive landing page built using HTML and CSS. This project demo
 </ul>
 <br>
 <h3>📷 Screenshot</h3>
-![Website-Screenshot](Website-Screenshot/screenshot.jpg)
+![Website Screenshot](Website%20Screenshot/screenshot.jpg)
 <br>
 <h3>🌐 Live Demo</h3>
 <br>
