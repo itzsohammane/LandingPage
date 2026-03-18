@@ -12,21 +12,21 @@ A modern and responsive landing page built using HTML and CSS. This project demo
 <li>Footer section</li>
 </ul>
 <br>
-#  🛠️ Technologies Used
+<b>🛠️ Technologies Use</b>
 <ul>
 <li>HTML</li>
 <li>CSS (Flexbox + Media Queries)</li>
 </ul>
 <br>
-#  📷 Screenshot
+<b>📷 Screenshot</b>
 <br>
 ![Screenshot](screenshot.png)
 <br>
-#  🌐 Live Demo
+<b>🌐 Live Demo</b>
 <br>
 https://itzsohammane.github.io/landing-page/
 <br>
-#  📚 What I Learned
+<b> 📚 What I Learned</b>
 <ul>
 <li>Building responsive layouts using Flexbox.</li>
 <li>Using media queries for different screen sizes.</li>
