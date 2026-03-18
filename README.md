@@ -19,7 +19,7 @@ A modern and responsive landing page built using HTML and CSS. This project demo
 </ul>
 <br>
 ## 📷 Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 <br>
 ## 🌐 Live Demo
 <br>
