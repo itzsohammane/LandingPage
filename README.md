@@ -1,8 +1,8 @@
 # This is a Landing Page for any Product or Servive Brand
-# 📌 Responsive Landing Page
+## 📌 Responsive Landing Page
 A modern and responsive landing page built using HTML and CSS. This project demonstrates clean layout design, responsive structure, and user-friendly interface suitable for product or service websites.
 <br>
-# 🚀 Features
+## 🚀 Features
 <ul>
 <li>Responsive design (mobile, tablet, desktop)</li>
 <li>Clean and modern UI</li>
@@ -12,21 +12,20 @@ A modern and responsive landing page built using HTML and CSS. This project demo
 <li>Footer section</li>
 </ul>
 <br>
-<b>🛠️ Technologies Use</b>
+## 🛠️ Technologies Use
 <ul>
 <li>HTML</li>
 <li>CSS (Flexbox + Media Queries)</li>
 </ul>
 <br>
-<b>📷 Screenshot</b>
-<br>
+## 📷 Screenshot
 ![Screenshot](screenshot.png)
 <br>
-<b>🌐 Live Demo</b>
+## 🌐 Live Demo
 <br>
 https://itzsohammane.github.io/landing-page/
 <br>
-<b> 📚 What I Learned</b>
+## 📚 What I Learned
 <ul>
 <li>Building responsive layouts using Flexbox.</li>
 <li>Using media queries for different screen sizes.</li>
