@@ -23,7 +23,7 @@ A modern and responsive landing page built using HTML and CSS. This project demo
 <br>
 <h3>🌐 Live Demo</h3>
 <br>
-https://itzsohammane.github.io/landing-page/
+ https://itzsohammane.github.io/LandingPage/
 <br>
 <h3>📚 What I Learned</h3>
 <ul>
