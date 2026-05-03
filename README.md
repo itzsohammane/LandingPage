@@ -9,6 +9,8 @@ A modern and responsive landing page built using HTML and CSS. This project demo
 <li>Navigation bar with links</li>
 <li>Hero section with call-to-action button</li>
 <li>Feature cards section</li>
+<li>Contact Section</li>
+<li>Feedback Form</li>
 <li>Footer section</li>
 </ul>
 <br>
@@ -19,7 +21,8 @@ A modern and responsive landing page built using HTML and CSS. This project demo
 </ul>
 <br>
 <h3>📷 Screenshot</h3>
-<img src="website-screenshot/screenshot.jpg" alt="Website Screenshot" width="100%">
+<img src="website-screenshot/screenshot1.jpg" alt="Website Screenshot 1" width="100%">
+<img src="website-screenshot/Screenshot2.png" alt="Website Screenshot 2" width="100%">
 <br>
 <h3>🌐 Live Demo</h3>
 <br>

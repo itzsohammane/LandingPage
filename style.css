@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: Arial;
+    background-color: grey;
 }
 
 /* Navbar */
@@ -26,11 +27,20 @@ nav ul li a {
     text-decoration: none;
 }
 
-/* Hero Section */
+/* Sections Styling */
+section{
+    margin: 20px;
+    padding: 20px;
+    background-color: #636363;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
 .hero {
     text-align: center;
     padding: 80px 20px;
-    background: #f4f4f4;
+    background: #636363;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 .hero h1 {
@@ -45,7 +55,6 @@ nav ul li a {
     cursor: pointer;
 }
 
-/* Features */
 .features {
     display: flex;
     justify-content: space-around;
@@ -53,11 +62,70 @@ nav ul li a {
 }
 
 .card {
-    background: #eee;
+    background: #4d4f52;
     padding: 20px;
     width: 25%;
     text-align: center;
     border-radius: 8px;
+}
+
+#flex{
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    margin: 0px;
+    padding: 0px;
+}
+
+#contact{
+    text-align: left;
+    height: 200px;
+    width: 100%;
+}
+
+#contact a {
+    text-decoration: none;
+    color: black;
+}
+
+#feedback{
+    text-align: center;
+    height: 200px;
+    width: 100%;
+}
+
+#feedback form{
+    text-align: left;
+}
+
+#feedback form input, #feedback form textarea{
+    width: 60%;
+    padding: 5px;
+    margin-top: 2px;
+    border: 1px solid #2f42474f;
+    border-radius: 4px;
+    background-color: #2e3033;
+}
+
+#feedback form textarea{
+    height: 12px;
+}
+
+#feedback form button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+#greeting{
+    text-align: center;
+    height: 200px;
+    width: 100%;
 }
 
 /* Footer */
