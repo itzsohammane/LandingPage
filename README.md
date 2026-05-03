@@ -21,7 +21,7 @@ A modern and responsive landing page built using HTML and CSS. This project demo
 </ul>
 <br>
 <h3>📷 Screenshot</h3>
-<img src="website-screenshot/screenshot1.jpg" alt="Website Screenshot 1" width="100%">
+<img src="website-screenshot/Screenshot1.jpg" alt="Website Screenshot 1" width="100%">
 <img src="website-screenshot/Screenshot2.png" alt="Website Screenshot 2" width="100%">
 <br>
 <h3>🌐 Live Demo</h3>
